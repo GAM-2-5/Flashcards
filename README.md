@@ -1,1 +1,2 @@
 # Flashcards
+Ja za svoj projekt radim flashcards-type program za ponavljanje u kojem korisnik može ubaciti svoju datetoku u kojom su upareni pojmovi odvojeni simbolom '-'. Tada će program nasumično ispisivati jedan od pojmova na koji će korisnik morati odgovoriti. Kada odluči završiti, upisati će 'KRAJ' i program će mu ispisati koliko je pogriješio i koje su to greške. Korisnik može i te greške spremiti, pa će mu u sljedećim pokretanjima programa ti pojmovi češće dolaziti. 
