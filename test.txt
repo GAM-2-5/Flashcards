@@ -1,3 +1,6 @@
 1-jedan
 2-dva
 3-tri
+4-cetri
+5-pet
+6-sest
