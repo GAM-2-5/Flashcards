@@ -18,7 +18,7 @@ for i in range(len(lredovi)):
         lpit.append(a[1].replace('\n',''))
         lbr.append(i)
 if len(lbr)>20:
-        lpon = ['a','b','c','d','e','f','g','h',]
+        lpon = ['a','b','c','d','e','f','g','h']
 elif len(lbr)>10:
         lpon = ['a','b','c','d']
 elif len(lbr)>5:
